@@ -1,2 +1,3 @@
 # hello-world
-test andl learn how to create a respository.
+test and learn how to create a respository.
+It will be a new start for develop.
